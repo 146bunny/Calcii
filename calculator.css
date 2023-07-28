@@ -1,0 +1,28 @@
+.row{
+    padding:5px;
+    
+}
+.button{
+    width:5vw;
+    height:5vw;
+
+}
+body{
+    background-color: rgba(0, 0, 0, 0.800);
+}
+h1{
+    color:white;
+}
+.button{
+    border-radius: 1vw;
+    font-size:2vw;
+}
+.input{
+    font-size:2vw;
+    margin:0;
+    padding: 1vw 0.1vw;
+    border-radius: 1vw;
+    width: 21vw;
+    height: 3vw;
+    margin-bottom: 0.5vw;
+}
